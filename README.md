@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Ojha</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabhiojha" alt="aabhiojha" /></a> </p>
+[comment]: <> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabhiojha" alt="aabhiojha" /></a> </p>
 
 - 🌱 I’m currently learning **Devops**
 
