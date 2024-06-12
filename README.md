@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Ojha</h1>
 <!-- <h3 align="center">A passionate developer from Nepal.</h3> -->
 
-- 🌱 I’m currently learning **Devops**
+<!-- - 🌱 I’m currently learning **Devops** -->
 
 - 📫 How to reach me **aabhiojha08@outlook.com**
 
